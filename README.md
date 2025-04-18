@@ -2,5 +2,3 @@
 
 test
 : hello
-:  world
-:    test
